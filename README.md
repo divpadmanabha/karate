@@ -45,8 +45,8 @@ Repeat the HTTP DELETE call and assert for HTTP.404 to ensure there is a hard de
 
 This is a maven project that uses minimal third party depenedencies. Once the project has been cloned the following maven goals can be run to test the project:
 
-1. mvn clean compile
-2. mvn test
+                mvn clean compile
+                mvn test
 
 # The test results:
 
