@@ -50,6 +50,8 @@ This is a maven project that uses minimal third party depenedencies. Once the pr
 
 # The test results:
 
-The test results are generated in the form of a html report at  <project_directory>/target/surefire-reports/features.products.OpenWeatherTest.html
+The test results are generated in the form of a html report at  
+  
+ <project_directory>/target/surefire-reports/features.products.OpenWeatherTest.html
 
 
